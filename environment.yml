@@ -1,0 +1,16 @@
+name: climateviz
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - dask
+  - bottleneck
+  - xarray
+  - matplotlib
+  - netcdf4
+  - cartopy
+  - scipy
+  - numpy
+  - pandas
+prefix: /Users/deborahkhider/opt/anaconda3/envs/climateviz
